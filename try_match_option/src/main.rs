@@ -13,6 +13,8 @@ fn print_option_i32(x: &Option<i32>) {
 }
 
 fn main() {
+    println!("match必须覆盖Option的所有情况：Some和None。");
+
     let three = Some(3);
     let four = plus_one(&three);
     let none = plus_one(&None);
