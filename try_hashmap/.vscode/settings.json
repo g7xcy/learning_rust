@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/home/frederica/workspace/learning_rust/try_hashmap/Cargo.toml",
+    ]
+}
